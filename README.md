@@ -1,12 +1,12 @@
-# - 👋 Hi, I’m @u-ever
-## - 👀 I’m studying to be a Web Developer.
+# - 👋 Hi, I’m Uever
+### - 👀 I’m studying to be a Web Developer.
 ### - 😀 I already know a little bit of HTML, CSS and JavaScript.
 ### - 🌱 I’m currently learning Java.
 
 ----
-<div >
-    <img height= 150em src= "https://github-readme-stats.vercel.app/api?username=u-ever&show_icons=true&theme=dracula">
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=u-ever&layout=compact)](https://github.com/u-ever/github-readme-stats">
+<div>
+    <img src= "https://github-readme-stats.vercel.app/api?username=u-ever&show_icons=true&theme=dracula" height= 150em>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=u-ever&layout=compact)](https://github.com/u-ever/github-readme-stats" height= 150em>
 </div>
 
 ----
