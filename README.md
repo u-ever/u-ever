@@ -1,6 +1,5 @@
 # - 👋 Hi, I’m Uever
 ### - 👀 I’m studying to be a Web Developer.
-### - 😀 I already know a little bit of HTML, CSS and JavaScript.
 ### - 🌱 I’m currently learning Java.
 
 ----
