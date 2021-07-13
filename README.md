@@ -12,7 +12,7 @@
 
 ## Contato
 
-<a href= "https://www.linkedin.com/in/uever-martins-8565a9207/">
+<a href= "https://www.linkedin.com/in/uever">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" aling="center" width= 50em height= 70em >
 </a>
 
