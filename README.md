@@ -1,18 +1,20 @@
 # - 👋 Hi, I’m Uever
-### - 👀 I’m studying to be a Web Developer.
+### -  I’m studying to be a Web Developer.
 ### - 🌱 I’m currently learning Java.
 
 ----
 <div>
-    <img src= "https://github-readme-stats.vercel.app/api?username=u-ever&show_icons=true&theme=dracula" height= 150em>
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=u-ever&layout=compact)](https://github.com/u-ever/github-readme-stats" height= 150em>
+    <img src= "https://github-readme-stats.vercel.app/api?username=u-ever&show_icons=true&theme=dracula" height= 200em width= 650em>
+</div>
+<div>
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=u-ever&layout=compact)](https://github.com/u-ever/github-readme-stats" height= 250em width= 650em>
 </div>
 
 ----
 
 ## Contato
 
-<a href= "https://www.linkedin.com/in/uever-martins-8565a9207/">
+<a href= "https://www.linkedin.com/in/uever">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" aling="center" width= 50em height= 70em >
 </a>
 
