@@ -1,7 +1,5 @@
 # - 👋 Hi, I’m Uever
 ### -  I’m studying to be a Web Developer.
-### - 🌱 I’m currently learning Java.
-
 ----
 <div>
     <img src= "https://github-readme-stats.vercel.app/api?username=u-ever&show_icons=true&theme=dracula" height= 200em width= 650em>
