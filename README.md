@@ -5,9 +5,6 @@
     <img src= "https://github-readme-stats.vercel.app/api?username=u-ever&show_icons=true&theme=dracula" height= 200em width= 650em>
 </div>
 <br>
-<div>
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=u-ever&layout=compact)](https://github.com/u-ever/github-readme-stats" height= 250em width= 650em>
-</div>
 
 ----
 
